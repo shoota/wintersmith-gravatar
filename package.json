@@ -1,0 +1,26 @@
+{
+  "name": "wintersmith-gravatar",
+  "version": "0.0.1",
+  "description": "A wintersmith plugin for gravatar",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/shoota/wintersmith-gravatar"
+  },
+  "keywords": [
+    "wintersmith",
+    "gravatar"
+  ],
+  "author": "shoota",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shoota/wintersmith-gravatar/issues"
+  },
+  "homepage": "https://github.com/shoota/wintersmith-gravatar",
+  "dependencies": {
+    "gravatar": "~1.0.6"
+  }
+}
